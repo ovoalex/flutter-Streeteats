@@ -9,6 +9,8 @@ Then add foods to your cart, edit the cart and check out.
 
 Check out screen is the most I got to for this project. When I have more time I will be adding more features to it.
 
+I implemnted the google map and geo location for the future use as well. Since I didnt have enough time I did not get the functions to work.
+
 Thank you.
 
 
