@@ -1,16 +1,17 @@
-# flutter_food_delivery_app
+# flutter_streetfood_delivery_app
 
 A new Flutter project.
 
-## Getting Started
+Project name: Streeteats
 
-This project is a starting point for a Flutter application.
+In this project, we will be going through the process of the streeteats app. First you will need to put in the location (address) then you get to choose from the list of delicious food places.
+Then add foods to your cart, edit the cart and check out.
 
-A few resources to get you started if this is your first Flutter project:
+Check out screen is the most I got to for this project. When I have more time I will be adding more features to it.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Thank you.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+To Run this project you will need Andriod Studio and an Emulator. 
+
+
